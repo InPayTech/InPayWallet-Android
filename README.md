@@ -1,2 +1,2 @@
-# InPayWallet-Android
-InPay Wallet for Android
+# InPayWallet for Android
+The source code will be uploaded after the beta stage
